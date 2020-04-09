@@ -1,1 +1,1 @@
-console.log("Console test");
+console.log("Console test for Blog");
